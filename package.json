@@ -1,8 +1,10 @@
 
-  "name":"hello",
-  "version":"1.0.0",
-  "description":"Hello",
-  "dependencies":{
-    "request": "2.55.0"
+"name": "node-js-sample",
+  "version": "0.2.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "hello.js"
+  },
+  "dependencies": {
   }
-}
