@@ -1,8 +1,8 @@
 
-  "name": "hello",
-  "version": "1.0.0",
-  "description": "Hello",
-  "dependencies": {
+  "name":"hello",
+  "version":"1.0.0",
+  "description":"Hello",
+  "dependencies":{
     "request": "2.55.0"
   }
 }
