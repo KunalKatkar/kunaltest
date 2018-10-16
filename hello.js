@@ -1,4 +1,4 @@
-console.log("hello2")
+console.log("hello32")
 function myapp(print){
 console.log(">>",print)
 }
